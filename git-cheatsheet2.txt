@@ -1,0 +1,18 @@
+    git clone git@github.com:sscott20/linux-osu-fall-2019.git
+    git diff
+    git add
+   git add ./README.md 
+    git status
+     git commit
+    git commit -m "I changed the README to a sentence."
+    git config --global user.email "stsc@okstate.edu"
+    git config --global user.name "Steve"
+    git commit -m "I changed the README to a sentence."
+   git status
+    git push origin master
+    grep git
+    ls -al | grep git
+       history | grep git
+       history | grep tmp | grep git > git-cheatsheet.txt
+       nano git-cheatsheet.txt
+       history | grep git > /tmp/git-cheatsheet.txt
